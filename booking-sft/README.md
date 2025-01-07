@@ -21,3 +21,6 @@ Database: PostgreSQL per la memorizzazione dei record di prenotazione.
 Frontend: HTML, CSS e JSP per le interfacce utente.
 
 Server: Apache Tomcat integrato in Spring Boot per il deployment dell'applicazione.
+
+![Badge](https://img.shields.io/badge/Stato-Attivo-green)
+
