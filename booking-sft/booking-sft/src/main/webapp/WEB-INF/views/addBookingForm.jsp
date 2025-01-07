@@ -5,35 +5,45 @@
 <title>Aggiungi Prenotazione</title>
 </head>
 <body>
-	<h2>Aggiungi una Nuova Prenotazione</h2>
+
+<div class="d-flex justify-content-center">
+<h2>Aggiungi una Nuova Prenotazione</h2>
+</div>
+<div class="d-flex justify-content-center">
+	
 	<form action="<%= request.getContextPath() + "/addBooking" %>"
 		method="post">
-		<div>
+		<div class="mb-3">
 			<label for="nomeCliente">Nome e Cognome:</label> <input type="text"
 				id="nomeCliente" name="nomeCliente" required />
 		</div>
-		<div>
+		<div class="mb-3">
 			<label for="emailCliente">Email Cliente:</label> <input type="email"
 				id="emailCliente" name="emailCliente" required />
 		</div>
-		<div>
+		<div class="mb-3">
 			<label for="dataEvento">Data Evento:</label> <input type="date"
 				id="dataEvento" name="dataEvento" required />
 		</div>
-		<div>
+		<div class="mb-3">
 			<label for="nomeEvento">Nome Evento:</label> <input type="text"
 				id="nomeEvento" name="nomeEvento" required />
 		</div>
-		<div>
+		<div class="mb-3">
 			<label for="numeroPrenotati">Numero Prenotati:</label> <input
 				type="number" id="numeroPrenotati" name="numeroPrenotati" required />
 		</div>
-		<div>
-			<input type="submit" value="Aggiungi Prenotazione" />
+		<div class="mb-3">
+			<input type="submit" value="Aggiungi Prenotazione" class="btn btn-success btn-lg mx-2" />
 		</div>
 	</form>
-	<a href="<%= request.getContextPath() + "/bookings" %>">Torna alla
+	</div>
+	<div class="d-grid gap-2 col-6 mx-auto">
+		<a class="btn btn-primary" href="<%= request.getContextPath() + "/bookings" %>"
+			role="button">Torna alla
 		lista prenotazioni</a>
+	</div>
+	
 </body>
 
 <script
