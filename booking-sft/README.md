@@ -1,5 +1,9 @@
 # App di Gestione Prenotazioni
 ![Badge](https://img.shields.io/badge/Stato-Attivo-green)
+
+
+![Ciao](<iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>)
+
 ## Panoramica
 
 Questa applicazione è un sistema di gestione delle prenotazioni progettato come esercizio per un tirocinio scolastico, per dimostrare la capacità di creare un'applicazione full-stack con Spring Boot. L'app consente agli utenti di gestire prenotazioni, inclusa l'aggiunta, la modifica e l'elenco dei record di prenotazione. Offre un'interfaccia intuitiva per gestire efficacemente le prenotazioni degli eventi.
