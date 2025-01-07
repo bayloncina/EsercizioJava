@@ -1,8 +1,4 @@
 # App di Gestione Prenotazioni
-![Badge](https://img.shields.io/badge/Stato-Attivo-green)
-
-
-![Ciao](https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk)
 
 ## Panoramica
 
