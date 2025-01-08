@@ -2,7 +2,7 @@
 
 ## Panoramica
 
-Questa applicazione è un sistema di gestione delle prenotazioni progettato come esercizio per un tirocinio scolastico, per dimostrare la capacità di creare un'applicazione full-stack con Spring Boot. L'app consente agli utenti di gestire prenotazioni, inclusa l'aggiunta, la modifica e l'elenco dei record di prenotazione. Offre un'interfaccia intuitiva per gestire efficacemente le prenotazioni degli eventi.
+Questa applicazione è un sistema di gestione delle prenotazioni progettato come esercizio per un tirocinio scolastico, per dimostrare la capacità di creare un'applicazione full-stack con Spring Boot. L'app consente agli utenti di gestire prenotazioni, inclusa l'aggiunta, la modifica l'eliminazione e l'elenco dei record di prenotazione. Offre un'interfaccia intuitiva per gestire efficacemente le prenotazioni degli eventi.
 
 ## Funzionalità
 
