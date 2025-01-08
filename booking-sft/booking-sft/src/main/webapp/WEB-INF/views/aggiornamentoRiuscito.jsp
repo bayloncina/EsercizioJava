@@ -4,7 +4,7 @@
 
 </head>
 <body>
-	<h2>Complimenti Aggiornamento Riuscito Dio Cane</h2>
+	<h2>Complimenti Aggiornamento Riuscito</h2>
 
 
 	<a href="<%=request.getContextPath() + "/"%>">Torna alla home</a>
