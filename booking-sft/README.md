@@ -12,6 +12,8 @@ Modifica di Prenotazioni: Modificare le prenotazioni esistenti aggiornando uno q
 
 Elenco Prenotazioni: Visualizzare tutte le prenotazioni correnti in un elenco chiaro e organizzato.
 
+Eliminazione di Prenotazioni: Eliminare le prenotazioni esistenti.
+
 ## Tecnologia Utilizzata
 
 Backend: Spring Boot (Java) per gestire la logica di business e le richieste HTTP.
